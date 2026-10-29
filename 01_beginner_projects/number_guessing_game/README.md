@@ -1,7 +1,9 @@
 Number Guessing Game
+
 A simple command-line game built with Python where the player tries to guess a randomly generated number between 1 and 100.
 
 About the Project
+
 The computer selects a secret number, and the player makes guesses until they find the correct answer. After each incorrect guess, the game provides a hint indicating whether the guess was too high or too low.
 The game also tracks the number of attempts and allows the player to start another round.
 
